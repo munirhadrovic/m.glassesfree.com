@@ -193,7 +193,7 @@ input#contact-submit-dugme {
 .callbacks_nav {
   position: absolute;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  top: 33%;
+  top: 178px;
   left: 0;
   opacity: 0.3;
   z-index: 3;

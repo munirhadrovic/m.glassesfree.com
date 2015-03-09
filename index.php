@@ -92,7 +92,7 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site | <a href="http://marketrivals.com" rel="external">  Desktop Site</a></h1>
+		    <h1>Mobile Site | <a href="http://www.glassesfree.com/" rel="external">  Desktop Site</a></h1>
 		</div>
 <!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
@@ -252,13 +252,18 @@
 					<section id="navigation-menu">
 						<ul id="menu">
 							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Seo</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Local SE0</a></li>
-							<li><a href="#contcatform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Our Doctors</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Media Center</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Patient Center</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Vision Correction Center</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Cataract Center</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Comprehensive Eye Center</a></li>
+							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 						</ul>
 					</section>
 
 					<p>This is only a <b>PREVIEW</b> version of your Mobile Website.</p>
+                    <hr/>
 					<p>Please contatact our official Sales Representative for <b>Full Functional Version.</b></p>
 
 				</div>
@@ -274,10 +279,13 @@
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<section id="navigation-menu-contact">
 							<ul id="menu-contact">
-								<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Web Design</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Local SE0</a></li>
-								<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Web Analytics</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Our Doctors</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Media Center</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Patient Center</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Vision Correction Center</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Cataract Center</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Comprehensive Eye Center</a></li>
 							</ul>
 					</section>
 					<div>	
